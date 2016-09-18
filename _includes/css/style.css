@@ -554,4 +554,8 @@ a.anchor{
     font-size: 13px;
     font-weight: normal;
 }
- 
+
+.img-responsive-4{
+    height: auto !important;
+    max-width: 50% !important
+}
