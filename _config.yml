@@ -124,13 +124,13 @@ members:
     
 # Clients information. Shown on Home and About pages.
 clients:
-  - name: dribbble
+  - name: Jekyll
     img: client01.png
-  - name: Code is Poetry
+  - name: Github
     img: client02.png
-  - name: Vimeo
+  - name: Git
     img: client03.png
-  - name: VimeoPro
+  - name: Bootstrap
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
